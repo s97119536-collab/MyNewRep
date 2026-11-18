@@ -1,6 +1,6 @@
 ﻿namespace TraficLight
 {
-    partial class Form1
+    partial class LightTraffic
     {
         /// <summary>
         /// Required designer variable.

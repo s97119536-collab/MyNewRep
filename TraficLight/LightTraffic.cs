@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace TraficLight
 {
-    public partial class Form1 : Form
+    public partial class LightTraffic : Form
     {
         int interval = 1000;
-        public Form1()
+        public LightTraffic()
         {
             InitializeComponent();
         }
