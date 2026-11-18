@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWinForm", "MyFirstWinForm\MyFirstWinForm.csproj", "{50B30753-3DC6-4EEB-B22D-C492C62626B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraficLight", "TraficLight\TraficLight.csproj", "{EC4FAE6F-0876-43E7-A074-1A64D7E9EB1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50B30753-3DC6-4EEB-B22D-C492C62626B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B30753-3DC6-4EEB-B22D-C492C62626B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B30753-3DC6-4EEB-B22D-C492C62626B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B30753-3DC6-4EEB-B22D-C492C62626B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4FAE6F-0876-43E7-A074-1A64D7E9EB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4FAE6F-0876-43E7-A074-1A64D7E9EB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4FAE6F-0876-43E7-A074-1A64D7E9EB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4FAE6F-0876-43E7-A074-1A64D7E9EB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CB9360A-AE2D-45EB-A1C8-BB018640A8BB}
+	EndGlobalSection
+EndGlobal
